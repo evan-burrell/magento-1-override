@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <EB_Override>
+            <active>true</active>
+            <codePool>community</codePool>
+        </EB_Override>
+    </modules>
+</config>

@@ -1,0 +1,6 @@
+{
+    "name": "evan-burrell/magento-1-override",
+    "type": "magento1-module",
+    "minimum-stability": "dev",
+    "require": {}
+}
