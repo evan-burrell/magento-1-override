@@ -1,8 +1,7 @@
 {
     "name": "evan-burrell/magento-1-override",
-    "type": "ampersand-magento",
-    "minimum-stability": "dev",
+    "type": "magento-module",
     "require": {
-        "ampersand/magento-installer": "^1.19"
+        "ampersand/magento-installer": "1.*"
     }
 }
