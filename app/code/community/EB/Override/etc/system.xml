@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <tabs>
+        <eb translate="label">
+            <label>Ampersand</label>
+            <sort_order>250</sort_order>
+        </eb>
+    </tabs>
+    <sections>
+        <eb_settings translate="label">
+            <label>Extensions</label>
+            <sort_order>10</sort_order>
+            <tab>eb</tab>
+            <show_in_default>1</show_in_default>
+            <show_in_website>1</show_in_website>
+            <show_in_store>1</show_in_store>
+            <groups>
+                <module translate="label">
+                    <label>Override</label>
+                    <sort_order>10</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <override translate="label">
+                            <label>Enabled?</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>EB_Override_Model_Select</source_model>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </override>
+                    </fields>
+                </module>
+            </groups>
+        </eb_settings>
+    </sections>
+</config>
