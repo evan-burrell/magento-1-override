@@ -1,11 +1,7 @@
 {
     "name": "evan-burrell/magento-1-override",
-    "type": "magento-module",
+    "type": "ampersand-module",
     "minimum-stability": "dev",
-    "repositories": [
-        {"type": "composer", "url": "https://repo.packagist.com/ampersandhq/"},
-        {"packagist.org": false}
-    ],
     "require": {
         "ampersand/magento-installer": "^1.19"
     }
