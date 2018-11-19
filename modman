@@ -1,2 +1,6 @@
 app/etc/modules/EB_Override.xml app/etc/modules/EB_Override.xml
 app/code/community/EB/Override/etc/config.xml app/code/community/EB/Override/etc/config.xml
+app/code/community/EB/Override/etc/adminhtml.xml app/code/community/EB/Override/etc/adminhtml.xml
+app/code/community/EB/Override/etc/system.xml app/code/community/EB/Override/etc/system.xml
+app/code/community/EB/Override/Model/Select.php app/code/community/EB/Override/Model/Select.php
+app/code/community/EB/Override/Model/Catalog/Product.php app/code/community/EB/Override/Model/Catalog/Product.php
