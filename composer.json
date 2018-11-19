@@ -1,6 +1,6 @@
 {
     "name": "evan-burrell/magento-1-override",
-    "type": "magento1-module",
+    "type": "magento-module",
     "minimum-stability": "dev",
     "repositories": [
         {"type": "composer", "url": "https://repo.packagist.com/ampersandhq/"},
