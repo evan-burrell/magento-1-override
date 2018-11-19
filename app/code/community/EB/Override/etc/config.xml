@@ -1,5 +1,10 @@
 <?xml version="1.0"?>
 <config>
+    <modules>
+        <EB_Override>
+            <version>0.0.1</version>
+        </EB_Override>
+    </modules>
     <global>
         <models>
             <catalog>
