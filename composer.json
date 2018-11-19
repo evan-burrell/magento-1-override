@@ -1,7 +1,7 @@
 {
     "name": "evan-burrell/magento-1-override",
     "type": "magento-module",
-    "require": {
-        "ampersand/magento-installer": "1.*"
+    "suggest":{
+        "magento-hackathon/magento-composer-installer": "*"
     }
 }
