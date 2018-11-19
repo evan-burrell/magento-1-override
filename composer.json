@@ -3,6 +3,5 @@
     "type": "magento-module",
     "suggest":{
         "magento-hackathon/magento-composer-installer": "*"
-    },
-    "extra": { "package-xml": "package.xml" }
+    }
 }
